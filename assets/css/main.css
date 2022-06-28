@@ -1786,7 +1786,7 @@ input, select, textarea {
 			border: 1px solid rgb(209,213,219);
 			border-radius: .5rem;
 			box-sizing: border-box;
-			color: #111827;
+			color: #777;
 			font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
 			font-size: .875rem;
 			font-weight: 600;
@@ -1802,22 +1802,20 @@ input, select, textarea {
 			touch-action: manipulation;
 		}
 		
-		.button-39:hover {
+		.resume-button:hover {
 			background-color: rgb(249,250,251);
 		}
 		
-		.button-39:focus {
+		.resume-button:focus {
 			outline: 2px solid transparent;
 			outline-offset: 2px;
 		}
 		
-		.button-39:focus-visible {
+		.resume-button:focus-visible {
 			box-shadow: none;
 		}
 
-.button-42:hover {
-  box-shadow: rgba(253, 76, 0, 0.5) 0 3px 8px;
-}
+
 
 /* Section/Article */
 
